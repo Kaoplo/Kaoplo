@@ -1,8 +1,13 @@
 ### Hi there 👋
 
 
-My name is Kaoplo, but you can call me Keppy. Currently working with NodeJS
+My name is Kaoplo, but you can call me Keppy.
+Creator of pySnipe
 
-- High school student in Hungary
-- Currently working on Discord bots
-- Arch Linux user
+- Working with Python
+- Rust
+- NodeJS
+
+- University student
+- Linux enthusiast
+- Tech enthusiast
